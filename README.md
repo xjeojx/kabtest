@@ -11,10 +11,10 @@
 git clone https://github.com/xjeojx/kabtest
 ```
 ```
-cd kabtest/
+cd kabtest/kabeliaccount/
 ```
 ```
-cd kabeliaccount/
+gradle build
 ```
 ```
 gradle bootjar
